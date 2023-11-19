@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "prdctName": "Pizza",
+    "quantity": 1,
+    "price": 599
+  },
+  {
+    "id": 2,
+    "prdctName": "Burger",
+    "quantity": 16,
+    "price": 149
+  },
+  {
+    "id": 3,
+    "prdctName": "Pasta",
+    "quantity": 31,
+    "price": 399
+  },
+  {
+    "id": 4,
+    "prdctName": "Ice Cream",
+    "quantity": 32,
+    "price": 29
+  },
+  {
+    "id": 5,
+    "prdctName": "Salad",
+    "quantity": 3,
+    "price": 19
+  },
+  {
+    "id": 6,
+    "prdctName": "Sushi",
+    "quantity": 14,
+    "price": 78
+  },
+  {
+    "id": 7,
+    "prdctName": "Smoothie",
+    "quantity": 23,
+    "price": 37
+  },
+  {
+    "id": 8,
+    "prdctName": "Chocolate",
+    "quantity": 27,
+    "price": 16
+  },
+  {
+    "id": 9,
+    "prdctName": "Coffee",
+    "quantity": 10,
+    "price": 11
+  },
+  {
+    "id": 10,
+    "prdctName": "Cupcake",
+    "quantity": 23,
+    "price": 74
+  },
+  {
+    "id": 11,
+    "prdctName": "Sandwich",
+    "quantity": 9,
+    "price": 34
+  },
+  {
+    "id": 12,
+    "prdctName": "Fruit Smoothie",
+    "quantity": 31,
+    "price": 49
+  },
+  {
+    "id": 13,
+    "prdctName": "Brownie",
+    "quantity": 15,
+    "price": 15
+  },
+  {
+    "id": 14,
+    "prdctName": "Donut",
+    "quantity": 3,
+    "price": 99
+  },
+  {
+    "id": 15,
+    "prdctName": "Soup",
+    "quantity": 4,
+    "price": 39
+  },
+  {
+    "id": 16,
+    "prdctName": "Taco",
+    "quantity": 11,
+    "price": 59
+  }
+]
